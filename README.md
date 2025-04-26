@@ -1,4 +1,4 @@
-##Setup the Gazebo environment and launch the respective file.
+## Setup the Gazebo environment and launch the respective file.
 ```bash
 source /usr/share/gazebo/setup.bash
 source turtlebot3_ws/install/setup.sh 
