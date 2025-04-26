@@ -1,0 +1,6 @@
+# Ignore folders 
+build/
+install/
+log/
+src/
+node_modules
